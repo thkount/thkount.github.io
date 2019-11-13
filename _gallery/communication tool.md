@@ -1,4 +1,3 @@
-
 ---
 author: thkount
 image_url: /images/communication tool.png
